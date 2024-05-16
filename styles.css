@@ -1,2 +1,22 @@
 
 /* Your CSS Code here. */
+.container{
+	 dispaly:flex;
+	flex-direction: row;
+	flex-wrap:wrap;
+	justify-content:space-evenly;
+	 
+}
+.box{
+	 
+	width:100px;
+	height:100px;
+	background-color:green;
+	border:1px solid black;
+}
+#one{
+	background-color:red;
+}
+#two{
+	background-color:blue;
+}
